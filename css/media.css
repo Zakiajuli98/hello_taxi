@@ -1,0 +1,292 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {  
+
+/*header start*/
+.licon{
+	font-size: 40px !important;    
+}
+.ltxt {
+     font-size: 20px;   
+}
+.menu ul li a {    
+    padding: 5px 0px !important;
+    font-size: 16px;    
+}
+/*header end*/
+/*banner start*/
+.b_content{
+	        padding: 80px 0 0;
+}
+.b_h1 {
+    font-size: 25px;   
+}
+.b_h2{	
+	font-size: 25px;   
+}
+.c_btn{	
+	padding: 10px 15px;
+}
+
+.b_p {
+    padding-right: 23px;
+    font-size: 14px;
+}
+.carousel-indicators [data-bs-target] {  
+    width: 22px;  
+}
+/*banner end*/
+/*about start*/
+.about {
+    padding: 80px 0;
+}
+.a_img {
+    margin-bottom: 20px;
+}
+.a_h2 {
+    font-size: 22px;
+    line-height: 35px;
+}
+.a_p2 {
+    line-height: 26px;    
+}
+/*about end*/
+
+/*service start*/
+.service {
+    padding: 0px 0 40px;
+}
+.s_h1 {
+    font-size: 30px;
+}
+.s_h2 {
+    font-size: 23px;
+    line-height: 30px;
+}
+/*service end*/
+/*choose us start*/
+.s_h2 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+/*featured start*/
+.featured {
+    padding: 40px 0 40px;
+}
+/*featured end*/
+/*testimonial start*/
+.testimonial {
+    padding: 40px 0 40px;
+}
+.t_content {
+    
+    padding: 20px;
+     }
+/*testimonial end*/
+/*contact start*/
+.contact {
+    padding: 40px 0 40px;
+}
+.c_content {
+    text-align: center;
+}
+.c_h1 {
+    margin: 15px 0 50px;
+   font-size: 28px;    
+}
+/*contact end*/
+/*footer start*/
+.footer-top {
+    padding: 40px 0 ;
+    text-align: center;
+}
+.r_h3 {
+    font-size: 16px;
+}
+
+/*footer end*/
+
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+/*header start*/
+.menu ul li a {   
+    padding: 10px 0px !important;   
+}
+/*header end*/
+/*banner start*/
+.b_content{
+	   padding: 80px 0 0;
+}
+.b_h1 {
+    font-size: 35px;   
+}
+
+.b_h2{	
+	font-size: 35px;   
+}
+.c_btn{	
+	padding: 10px 15px;
+}
+
+.b_p {
+    padding-right: 180px;
+}
+.carousel-indicators [data-bs-target] {  
+    width: 22px;   
+}
+/*banner end*/
+/*about start*/
+.about {
+    padding: 40px 0 40px;
+}
+.a_img {
+    margin-bottom: 20px;
+}
+.a_h2 {  
+    font-size: 35px;
+   line-height: 44px;
+}
+/*about end*/
+/*service start*/
+.service {
+    padding: 40px 0 40px;
+}
+.s_h1 {
+    font-size: 36px;
+}
+/*service end*/
+/*featured start*/
+.featured {
+    padding: 40px 0 40px;
+}
+/*featured end*/
+/*contact start*/
+.contact {
+    padding: 40px 0 40px;
+}
+.c_content {
+    text-align: center;
+}
+.c_h1 {
+     padding: 0 60px;
+    margin: 15px 0 50px;
+}
+/*contact end*/
+/*footer start*/
+.footer-top {
+    padding: 40px 0 ;
+}
+.r_h3 {
+    font-size: 16px;
+}
+
+/*footer end*/
+
+
+
+ }
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+/*header start*/
+.menu ul li a {   
+    padding: 10px 0px !important;   
+}
+/*header end*/
+
+/*banner start*/
+.b_h1 {
+    font-size: 50px;   
+}
+
+.b_h2{	
+	font-size: 50px;   
+}
+/*banner end*/
+
+/*about start*/
+
+.a_img {
+    margin-bottom: 20px;
+}
+
+/*about end*/
+/*testimonial start*/
+.t_content {
+    
+    padding: 5px;
+     }
+/*testimonial end*/
+/*contact start*/
+.c_h1 {
+    margin: 15px 0 50px;
+}
+/*contact end*/
+/*footer start*/
+.footer-top {
+    padding: 80px 0 50px;
+}
+.r_h3 {
+    font-size: 16px;
+}
+
+/*footer end*/
+
+
+
+ }
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/*banner start*/
+.b_h1 {
+    font-size: 50px;    
+}
+
+.b_h2{	
+	font-size: 50px;    
+}
+/*banner end*/
+
+/*about start*/
+.a_h2 {    
+    font-size: 34px;
+   line-height: 45px;
+}
+.a_p2 {
+    line-height: 25px;    
+}
+
+/*about end*/
+
+/*testimonial start*/
+.t_content {
+    padding: 20px;
+     }
+/*testimonial end*/
+/*footer start*/
+.footer-top {
+    padding: 90px 0 60px;
+}
+.r_h3 {
+    font-size: 16px;
+}
+
+/*footer end*/
+
+
+
+
+ }
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {  }
+
+
+/* Extra extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) { }
